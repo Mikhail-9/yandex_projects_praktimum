@@ -18,3 +18,12 @@
 Инструменты: _Python, Pandas, pymystem3 предобработка данных_
 
 > [Исследование надёжности заёмщиков — анализ банковских данных](https://nbviewer.org/github/Mikhail-9/yandex_projects_praktimum/blob/master/reliability_research_data_analist/reliability_research_data_analist.ipynb)
+
+Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости. Используя данные сервиса Яндекс.Недвижимость, определить рыночную стоимость объектов недвижимости и типичные параметры квартир.
+
+Направление: _Data Analyst, Fraud-аналитик, Маркетинг-аналитик_
+
+Инструменты: _Python, Pandas, Matploylib, EDA_
+
+> [Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости](https://nbviewer.org/github/Mikhail-9/yandex_projects_praktimum/blob/master/real_estate_data_analist/real_estate_data_analist.ipynb)
+
