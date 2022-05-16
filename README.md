@@ -15,6 +15,6 @@
 
 Направление: _Data Analist Финансовый аналитик_
 
-Инструменты: _Python, Pandas, предобработка данных_
+Инструменты: _Python, Pandas, pymystem3 предобработка данных_
 
 > [Исследование надёжности заёмщиков — анализ банковских данных](https://nbviewer.org/github/Mikhail-9/yandex_projects_praktimum/blob/master/reliability_research_data_analist/reliability_research_data_analist.ipynb)
