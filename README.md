@@ -4,6 +4,8 @@
 
 Прогнозирование оттока клиентов банка - на исторических данных создать модель предсказывающую уйдет клиент в ближайшее время или нет.
 
-Направление _Data Sciantist, Машинное обучение, Классификация_ Иструменты: _Python, Pandas, Matplotlib, Scikit-Learn, Numpy, imblearn.over_sampling_
+Направление _Data Sciantist, Машинное обучение, Классификация_ 
+
+Иструменты: _Python, Pandas, Matplotlib, Scikit-Learn, Numpy, imblearn.over_sampling_
 
 > [Прогнозирование оттока клиентов](https://nbviewer.org/github/Mikhail-9/yandex_projects_praktimum/blob/master/outflow_data_sciantist/.ipynb_checkpoints/outflow_data_scientist-checkpoint.ipynb)
