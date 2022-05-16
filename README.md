@@ -2,6 +2,8 @@
 ### В этом репозитории собраны проекты по DdataScience и DataAnalysis выполненные в процессе девятимесячного обучения на курсах Yandex.Praktimum
 **Ниже изучив описание вы можете перейти по ссылке и ознакомится с заинтересовавшим вас проектом**
 
-Прогнозирование оттока клиентов банка - на исторических данных создать модель предсказывающую уйдет клиент в ближайшее время или нет. Направление _Data Sciantist_ Иструменты: _Python, Pandas,    Matplotlib, Scikit-Learn, Numpy, imblearn.over_sampling_
+Прогнозирование оттока клиентов банка - на исторических данных создать модель предсказывающую уйдет клиент в ближайшее время или нет.
+
+Направление _Data Sciantist, Машинное обучение, Классификация_ Иструменты: _Python, Pandas, Matplotlib, Scikit-Learn, Numpy, imblearn.over_sampling_
 
 > [Прогнозирование оттока клиентов](https://nbviewer.org/github/Mikhail-9/yandex_projects_praktimum/blob/master/outflow_data_sciantist/.ipynb_checkpoints/outflow_data_scientist-checkpoint.ipynb)
