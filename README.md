@@ -41,5 +41,5 @@
 
 Инструменты: _Python, tf-idf, nltk, Scikit-Learn_
 
-> [Сентимент анализв](https://github.com/Mikhail-9/yandex_projects_praktimum/blob/master/sentiment_analysis_data_sciantist/sentiment_analysis_data_sciantist.ipynb)
+> [Сентимент анализ](https://github.com/Mikhail-9/yandex_projects_praktimum/blob/master/sentiment_analysis_data_sciantist/sentiment_analysis_data_sciantist.ipynb)
 
