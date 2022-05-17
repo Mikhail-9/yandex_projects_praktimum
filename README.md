@@ -31,7 +31,7 @@
 
 Направление: _NLP, Машинное обучение_
 
-Инструменты: _<div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis; display: flex;">tf-idf</div>_
+Инструменты: _Python, Pandas, BERT, CatBoost_
 
 > [Обучение модели классификации комментариев](https://nbviewer.org/github/Mikhail-9/yandex_projects_praktimum/blob/master/real_estate_data_analist/real_estate_data_analist.ipynb)
 
