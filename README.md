@@ -31,8 +31,8 @@
 
 Направление: _NLP, Машинное обучение_
 
-Инструменты: _Python, Pandas, BERT, CatBoost_
+Инструменты: _Python, Pandas, BERT, CatBoost, Torch, re, tqdm, transformers_
 
-> [Обучение модели классификации комментариев](https://nbviewer.org/github/Mikhail-9/yandex_projects_praktimum/blob/master/real_estate_data_analist/real_estate_data_analist.ipynb)
+> [Обучение модели классификации комментариев](https://nbviewer.org/github/Mikhail-9/yandex_projects_praktimum/blob/master/toxic_data_sciantist/.ipynb_checkpoints/toxic_data_sciantist-checkpoint.ipynb)
 
 
