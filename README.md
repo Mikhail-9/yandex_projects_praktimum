@@ -18,7 +18,7 @@
 
 Иструменты: _Python, Pandas, Matplotlib, Scikit-Learn, Numpy, imblearn.over_sampling_
 
-> [Исследование надёжности заёмщиков — анализ банковских данных](https://nbviewer.org/github/Mikhail-9/yandex_projects_praktimum/blob/master/reliability_research_data_analist/reliability_research_data_analist.ipynb)
+> [Исследование надёжности заёмщиков](https://nbviewer.org/github/Mikhail-9/yandex_projects_praktimum/blob/master/reliability_research_data_analist/reliability_research_data_analist.ipynb)
 
 Исследование надёжности заёмщиков — анализ банковских данных. На основе статистики о платёжеспособности клиентов исследовать влияет ли семейное положение и количество детей клиента на факт возврата кредита в срок
 
