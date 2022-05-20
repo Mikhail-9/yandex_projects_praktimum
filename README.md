@@ -1,6 +1,14 @@
 ![](https://github.com/Mikhail-9/colab/blob/master/pictures/DataScience.jpg)
-### В этом репозитории собраны проекты по DdataScience и DataAnalysis выполненные в процессе девятимесячного обучения на курсах Yandex.Praktimum
+### В этом репозитории собраны проекты по DataScience и DataAnalysis выполненные в процессе девятимесячного обучения на курсах Yandex.Praktimum
 **Ниже изучив описание вы можете перейти по ссылке и ознакомится с заинтересовавшим вас проектом**
+
+> [Прогнозирование количества заказов такси на следующий час](https://nbviewer.org/github/Mikhail-9/yandex_projects_praktimum/blob/master/taxi_data_scientist/taxi_data_scientist.ipynb)
+
+Прогнозирование количества заказов такси на следующий час. Разработка системы предсказания объема заказа.
+
+Направление: _Мшинное обучениеб Временные ряды_
+
+Инструменты: _Statsmodels, LigthGBM, CatBoost, Scikit-Learn_
 
 > [Определение наиболее выгодного региона нефтедобычи](https://nbviewer.org/github/Mikhail-9/yandex_projects_praktimum/blob/master/drill_data_scientist/drill_data_scientist.ipynb)
 
