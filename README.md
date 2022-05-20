@@ -2,15 +2,6 @@
 ### В этом репозитории собраны проекты по DataScience и DataAnalysis выполненные в процессе девятимесячного обучения на курсах Yandex.Praktimum
 **Ниже изучив описание вы можете перейти по ссылке и ознакомится с заинтересовавшим вас проектом**
 
-> [Построение модели определения стоимости автомобиля](https://github.com/Mikhail-9/yandex_projects_praktimum/blob/master/auto_data_scientist/auto_data_scientist.ipynb)
-
-Построение модели определения стоимости автомобиля. Разработка системы рекомендации стоимости автомобиля на основе его описания.
-
-Направление: _Data Scientist, Мшинное обучение, Численные методы_
-
-Инструменты: _Pandasd, Numpy, LigthGBM, CatBoost, Scikit-Learn_
-
-
 > [Прогнозирование количества заказов такси на следующий час](https://nbviewer.org/github/Mikhail-9/yandex_projects_praktimum/blob/master/taxi_data_scientist/taxi_data_scientist.ipynb)
 
 Прогнозирование количества заказов такси на следующий час. Разработка системы предсказания объема заказа.
@@ -66,3 +57,11 @@
 Направление: _Data Scientist, NLP, Машинное обучение_
 
 Инструменты: _Python, tf-idf, nltk, Scikit-Learn_
+
+> [Построение модели определения стоимости автомобиля](https://github.com/Mikhail-9/yandex_projects_praktimum/blob/master/auto_data_scientist/auto_data_scientist.ipynb)
+
+Построение модели определения стоимости автомобиля. Разработка системы рекомендации стоимости автомобиля на основе его описания.
+
+Направление: _Data Scientist, Мшинное обучение, Численные методы_
+
+Инструменты: _Pandasd, Numpy, LigthGBM, CatBoost, Scikit-Learn_
