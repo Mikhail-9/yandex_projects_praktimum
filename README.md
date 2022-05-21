@@ -59,7 +59,7 @@
 
 Инструменты: _Python, Pandas, BERT, CatBoost, Torch, Scikit-Learn, re, tqdm, transformers_
 
-> [Сентимент анализ](https://github.com/Mikhail-9/yandex_projects_praktimum/blob/master/sentiment_analysis_data_sciantist/sentiment_analysis_data_sciantist.ipynb)
+> [Сентимент анализ](https://nbviewer.org/github/Mikhail-9/yandex_projects_praktimum/blob/master/sentiment_analysis_data_scientist/sentiment_analysis_data_scientist.ipynb)
 
 Сентимент анализ. Выявление эмоционально окрашенных слов.
 
