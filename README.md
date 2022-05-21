@@ -2,6 +2,15 @@
 ### В этом репозитории собраны проекты по DataScience и DataAnalysis выполненные в процессе девятимесячного обучения на курсах Yandex.Praktimum
 **Ниже изучив описание вы можете перейти по ссылке и ознакомится с заинтересовавшим вас проектом**
 
+> [Защита данных клиентов страховой компании](https://nbviewer.org/github/Mikhail-9/yandex_projects_praktimum/blob/master/insurance_data_scientist/insurance_data_scientist.ipynb)
+
+Защита данных клиентов страховой компании. Разработка модели анонимизации персональных данных.
+
+Направление: _Data Scientist, Мшинное обучение_
+
+Инструменты: _Pythonm, Numpy, Scikit-Learn_
+
+
 > [Прогнозирование количества заказов такси на следующий час](https://nbviewer.org/github/Mikhail-9/yandex_projects_praktimum/blob/master/taxi_data_scientist/taxi_data_scientist.ipynb)
 
 Прогнозирование количества заказов такси на следующий час. Разработка системы предсказания объема заказа.
