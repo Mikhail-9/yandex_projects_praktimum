@@ -67,7 +67,7 @@
 
 Инструменты: _Python, tf-idf, nltk, Scikit-Learn_
 
-> [Построение модели определения стоимости автомобиля](https://github.com/Mikhail-9/yandex_projects_praktimum/blob/master/auto_data_scientist/auto_data_scientist.ipynb)
+> [Построение модели определения стоимости автомобиля](https://nbviewer.org/github/Mikhail-9/yandex_projects_praktimum/blob/master/auto_data_scientist/auto_data_scientist.ipynb)
 
 Построение модели определения стоимости автомобиля. Разработка системы рекомендации стоимости автомобиля на основе его описания.
 
