@@ -59,14 +59,6 @@
 
 Инструменты: _Python, Pandas, BERT, CatBoost, Torch, Scikit-Learn, re, tqdm, transformers_
 
-> [Сентимент анализ](https://nbviewer.org/github/Mikhail-9/yandex_projects_praktimum/blob/master/sentiment_analysis_data_scientist/sentiment_analysis_data_scientist.ipynb)
-
-Сентимент анализ. Выявление эмоционально окрашенных слов.
-
-Направление: _Data Scientist, NLP, Машинное обучение_
-
-Инструменты: _Python, tf-idf, nltk, Scikit-Learn_
-
 > [Построение модели определения стоимости автомобиля](https://nbviewer.org/github/Mikhail-9/yandex_projects_praktimum/blob/master/auto_data_scientist/auto_data_scientist.ipynb)
 
 Построение модели определения стоимости автомобиля. Разработка системы рекомендации стоимости автомобиля на основе его описания.
@@ -74,3 +66,11 @@
 Направление: _Data Scientist, Мшинное обучение, Численные методы_
 
 Инструменты: _Pandasd, Numpy, LigthGBM, CatBoost, Scikit-Learn_
+
+> [Сентимент анализ](https://nbviewer.org/github/Mikhail-9/yandex_projects_praktimum/blob/master/sentiment_analysis_data_scientist/sentiment_analysis_data_scientist.ipynb)
+
+Сентимент анализ. Выявление эмоционально окрашенных слов.
+
+Направление: _Data Scientist, NLP, Машинное обучение_
+
+Инструменты: _Python, tf-idf, nltk, Scikit-Learn_
