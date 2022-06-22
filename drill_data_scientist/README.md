@@ -18,7 +18,7 @@
 
 **Стек проекта**
 
-_pandas, numpy, sklearn LinearRegression, Bootstrap_
+_python, pandas, numpy, sklearn LinearRegression, Bootstrap_
 
 **Статус**
 
