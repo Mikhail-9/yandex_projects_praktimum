@@ -15,3 +15,5 @@ _pandas, numpy, matplotlib.pyplot, sklearn, imblearn.over_sampling BorderlineSMO
 **Статус**
 
 _Завершен_
+
+> [Защита данных клиентов страховой компании](https://github.com/Mikhail-9/yandex_projects_praktimum/blob/master/outflow_data_scientist/outflow_data_scientist.ipynb)
