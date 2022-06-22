@@ -37,4 +37,4 @@ _python, pandas, numpy, matplotlib.pyplot, scipy stats, statistical analysis_
 
 _Завершен_
 
-> [Построение модели определения стоимости автомобиля](https://github.com/Mikhail-9/yandex_projects_praktimum/blob/master/tariff_data_analyst/tariff_data_analyst.ipynb)
+> [Анализ тарифных планов](https://github.com/Mikhail-9/yandex_projects_praktimum/blob/master/tariff_data_analyst/tariff_data_analyst.ipynb)
