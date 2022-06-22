@@ -17,7 +17,7 @@
 
 **Стек проекта**
 
-_pandas, numpy, sklearn LinearRegression, linear algebra_
+_python, pandas, numpy, sklearn LinearRegression, linear algebra_
 
 **Статус**
 
