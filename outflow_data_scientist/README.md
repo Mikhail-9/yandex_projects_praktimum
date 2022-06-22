@@ -10,7 +10,7 @@
 
 **Стек проекта**
 
-_pandas, numpy, matplotlib.pyplot, sklearn, imblearn.over_sampling BorderlineSMOTE, threshold selection_
+_python, pandas, numpy, matplotlib.pyplot, sklearn, imblearn.over_sampling BorderlineSMOTE, threshold selection_
 
 **Статус**
 
