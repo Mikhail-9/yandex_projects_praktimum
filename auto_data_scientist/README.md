@@ -19,7 +19,7 @@
 
 **Стек проекта**
 
-_pandas, numpy, sklearn GridSearchCV OneHotEncoder OrdinalEncoder LinearRegression cross_val_score, lightgbm, OrdinalEncoder, catboost CatBoostRegressor, time_
+_python, pandas, numpy, sklearn GridSearchCV OneHotEncoder OrdinalEncoder LinearRegression cross_val_score, lightgbm, OrdinalEncoder, catboost CatBoostRegressor, time_
 
 **Статус**
 
