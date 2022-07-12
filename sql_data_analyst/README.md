@@ -17,4 +17,4 @@ _Венчурные фонды_ — это финансовые организа
 
 Для перехода к проекту нажмите на ссылку
 
-> [SQL анализ компаний привлекающих инвестиции](https://github.com/Mikhail-9/yandex_projects_praktimum/tree/master/insurance_data_scientist)
+> [SQL анализ компаний привлекающих инвестиции](https://github.com/Mikhail-9/yandex_projects_praktimum/blob/master/sql_data_analyst/sql_venture_fund.ipynb)
