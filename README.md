@@ -8,7 +8,7 @@
 
 Направление: _Data Scientist, Мшинное обучение_
 
-Инструменты: _Pythonm, Numpy, Scikit-Learn_
+Инструменты: _Python, Numpy, Scikit-Learn_
 
 
 > [Прогнозирование количества заказов такси на следующий час](https://github.com/Mikhail-9/yandex_projects_praktimum/tree/master/taxi_data_scientist)
